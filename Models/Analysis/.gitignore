@@ -1,3 +1,7 @@
-*.RData
+#*.RData
+# -> target specific rdata files
 processed
+log
+
+20160217.RData
 
